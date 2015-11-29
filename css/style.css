@@ -1,3 +1,19 @@
 body {
     text-align: center;
+    background-image: url('/images/shinedotted.png');
+}
+
+#score {
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    color: purple;
+}
+
+#title {
+    font-family: 'Righteous', cursive;
+    font-size: 64px;
+    margin-top: 35px;
+    background: linear-gradient(#ff0000, #ffff00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
 }
